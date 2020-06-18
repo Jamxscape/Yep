@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+.page1blk1par1{
+position: absolute;
+left: 390.0;
+right: 542.9090909090909;
+top: 100.25;
+font-family: Verdana;
+font-weight: normal;
+font-style: normal;
+font-variant: normal;
+text-decoration: none;
+font-size: 11.6;
+}
+.page1blk2par1{
+position: absolute;
+left: 392.5;
+right: 546.7272727272727;
+top: 252.0;
+font-family: AR_PL_UMing_Patched_Light;
+font-weight: normal;
+font-style: normal;
+font-variant: normal;
+text-decoration: none;
+font-size: 18.2;
+}
